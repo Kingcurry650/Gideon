@@ -15,8 +15,3 @@ Step 2. Go to +>https://carter-ui.netlify.app/?key=YOUR_API_KEY and boom, welcom
 
 • [LeonUI](https://github.com/maxwebdevelop/LEON-EXAMPLE)
 
-## Open Sourced and free to use by 2Devs
-
-Stay tuned and join our [discord](https://dsc.gg/2devs) for updates, many more features to come :)
-
-License: Apache 2.0
