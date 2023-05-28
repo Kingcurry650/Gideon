@@ -1,5 +1,5 @@
-// CarterUI Version 0.1
-// By 2Devs
+// Gideon Version 0.1
+// By Curry
 
 // on document ready
 document.addEventListener("DOMContentLoaded", function (event) {
