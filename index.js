@@ -1,4 +1,4 @@
-/ Gideon Version 0.1
+// Gideon Version 0.1
 // By Curry
 
 // on document ready
