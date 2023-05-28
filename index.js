@@ -1,8 +1,7 @@
 // Gideon Version 0.1
 // By Curry
 
-// Import face-api.js modules
-import * as faceapi from 'face-api.js';
+<script src="face-api/face-api.js"></script>
 
 // on document ready
 document.addEventListener("DOMContentLoaded", function (event) {
